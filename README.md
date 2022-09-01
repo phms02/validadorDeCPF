@@ -10,4 +10,4 @@ Python (somente).
 Por meio desse projeto consegui aprimorar o raciocínio lógico, o uso de condicionais simples e encadeadas e, por fim, o estudo da sintaxe do Phyton.
 
 ## Link do repositório do GitHub:
-https://github.com/PedroHMSilva929/Pagina-de-Login
+https://github.com/phms07/validador_de_CPF/tree/master
